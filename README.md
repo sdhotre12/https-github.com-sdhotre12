@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 * 🎓 **B.Tech Student** in **Artificial Intelligence & Machine Learning (AIML)**
 * 🏫 **D.Y. Patil College of Engineering and Technology, Kasba Bawada, Kolhapur**
 * 💻 Passionate about **Full Stack Development, Artificial Intelligence, and Software Engineering**
-* 🌱 Currently learning **React, Spring Boot, Machine Learning, and Cloud Technologies**
+* 🌱 Currently learning **GenAi, and Cloud Technologies**
 * 🤝 Interested in collaborating on open-source and innovative projects
 * 🎯 Dedicated to continuous learning and creating meaningful software solutions
 
@@ -23,35 +23,24 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 
 * Java
 * Python
-* JavaScript
 * SQL
+* HTML5
+* CSS3
 
 ### 🌐 Frontend
 
 * HTML5
 * CSS3
-* JavaScript
-* React.js
-* Bootstrap
-* Tailwind CSS
-
-### ⚙️ Backend
-
-* Node.js
-* Express.js
-* Spring Boot
 
 ### 🗄️ Database
 
 * MySQL
-* MongoDB
 
 ### 🔧 Tools & Platforms
 
 * Git
 * GitHub
 * VS Code
-* Postman
 * Linux
 
 ---
@@ -59,23 +48,11 @@ Welcome to my GitHub profile! I'm passionate about technology, software developm
 ## 🚀 What I'm Working On
 
 * 📚 Improving my Data Structures & Algorithms skills
-* 🌐 Building Full Stack Web Applications
 * 🤖 Exploring Artificial Intelligence & Machine Learning
-* ☁️ Learning Cloud Computing and DevOps
 * 📖 Contributing to open-source projects
 
 ---
 
-## 📂 Featured Projects
-
-Here you'll find projects related to:
-
-* 🌐 Full Stack Web Development
-* 🤖 Artificial Intelligence & Machine Learning
-* ☕ Java Applications
-* 🔗 REST APIs
-* 📊 Database Management
-* 💡 Problem Solving & Algorithms
 
 Stay tuned—more exciting projects are on the way!
 
